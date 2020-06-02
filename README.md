@@ -7,7 +7,7 @@
 <p align="center">
 Read this in other language: 
     <a href="https://github.com/jeanhrsouza/NLW01">Português</a> | 
-    <a href="https://github.com/jeanhrsouza/NLW01/README.en-EN.md">English</a>
+    <a href="/jeanhrsouza/NLW01/blob/master/README.en-EN.md">English</a>
 </p>
 
 ---
